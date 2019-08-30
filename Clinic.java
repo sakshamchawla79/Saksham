@@ -124,7 +124,7 @@ public class Clinic extends Newvetenarian {
 		for (int i = 0; i < list.size(); i++){
 			Animal temp = (Animal)list.get(i);
 			if (this.data.data.data.data.listOfVeterinarians == null) {
-				output += "- No available veterinarians\n*******************\n"; 
+				output += "- No available veterinarians\n*\n"; 
 				break;  // go no further will allocations, list of Veterinarians is empty - may need to check for availability in another clinic in a later version 
 			}
 			if (temp.assignVeterinarian(this.data.data.data.data.listOfVeterinarians) == false){  // attempt to assign animal to a veterinarian
