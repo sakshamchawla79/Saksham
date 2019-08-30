@@ -2,7 +2,7 @@ package assignment1_201917;
 
 import java.util.*;
 
-public class Animal extends Newvetenarian {
+public class Pet extends Newvetenarian {
 
 	
 	
