@@ -10,7 +10,7 @@ public class MainDriverClass {
 	public static final String TEST_FILE = "MyTest.txt";
 
 	public static void main(String[] args) throws IOException {
-		String outputString = new Clinic().run();
+		String  outputString = new Clinic().run();
 		
 		System.out.println(outputString);
 		
