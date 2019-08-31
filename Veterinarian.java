@@ -1,7 +1,7 @@
-package assignment1_201917;
+package assignment1_new;
 import java.util.*;
 
-public class Veterinarian extends Newvetenarian {
+public class Veterinarian_new extends Newvetenarian {
 
 	
 		public Veterinarian(){  // constructor to set up a Veterinarian object
