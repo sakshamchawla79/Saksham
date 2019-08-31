@@ -2,7 +2,7 @@ package assignment1_201917;
 
 import java.util.ArrayList;
 
-public class ClinicData extends Newvetenarian {
+public class ClinicData_new extends Newvetenarian {
 	public ArrayList<Veterinarian> listOfVeterinarians;
 	private String inputFileName;
 
