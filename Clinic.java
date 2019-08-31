@@ -159,7 +159,7 @@ public class Clinic extends Newvetenarian {
 		return output;  // return string to calling method to print out
 	}
 
-	public String toString() {
+	public String void  toString() {
 		return null;
 	}
 }
