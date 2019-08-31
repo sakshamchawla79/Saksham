@@ -1,4 +1,4 @@
-package assignment1_201917;
+package assignment1_new;
 
 public class Newclinic {
 	public ClinicData data;
