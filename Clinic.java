@@ -15,7 +15,7 @@ public class Clinic extends Newvetenarian {
 		}
 	}
 
-	public static class Clinicdata {
+	public static class Clinicdata_new {
 		public Newclinic data;
 
 		public Clinicdata(Newclinic data) {
